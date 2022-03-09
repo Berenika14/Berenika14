@@ -1,10 +1,10 @@
 <!-- **Berenika14/Berenika14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 👋 Hi! I'm Berenika.
-- 📧 Email me: ahmetajberenika@gmail.com
+- 📧 Email: ahmetajberenika@gmail.com
 - 🔭 I’m interested in  React, JavaScript, Node.js, and SQL/NoSQL.
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
-- 👯 I’m looking to collaborate and build smart solutions for businesses
+- 👩‍💻 I’m looking to collaborate and build smart solutions for businesses
 
 ![](https://komarev.com/ghpvc/?username=aaronamendez&color=orange)
 
