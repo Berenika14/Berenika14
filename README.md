@@ -2,9 +2,9 @@
 
 - 👋 Hi! I'm Berenika.
 - 📧 Email me: ahmetajberenika@gmail.com
-- 🔭 I’m interested React, JavaScript, Node.js, and SQL/NoSQL (MongoDB, MySQL, PostgresSQL)
+- 🔭 I’m interested in  React, JavaScript, Node.js, and SQL/NoSQL.
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
-- 👯 I’m looking to collaborate on Crypto and Building Smart Solutions for Businesses
+- 👯 I’m looking to collaborate and build smart solutions for businesses
 
 ![](https://komarev.com/ghpvc/?username=aaronamendez&color=orange)
 
@@ -36,14 +36,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
-### General Tools
-<p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
-</p>
 
 
 
-## General Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Berenika14&theme=blue-green"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berenika14&theme=blue-green" />
