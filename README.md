@@ -34,11 +34,11 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
-### General Tools
-<p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
-</p>
+
+
+## General Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aaronamendez&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronamendez&theme=blue-green" />
 
 
 
