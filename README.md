@@ -4,7 +4,7 @@
 - 🔭 I’m interested in  React, JavaScript, Node.js, and SQL/NoSQL.
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
 - 👩‍💻 I’m looking to collaborate and build smart solutions for businesses
-🔗 Let`s connect on [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/) 
+- 🔗 Let`s connect on [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/) 
 
 ![](https://komarev.com/ghpvc/?username=Berenika14&color=orange)
 
