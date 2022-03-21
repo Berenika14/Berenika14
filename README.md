@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
 - 👩‍💻 I’m looking to collaborate and build smart solutions for businesses
 -  📧 Email: ahmetajberenika@gmail.com
-
+🔗 Connect https://www.linkedin.com/in/berenika-ahmetaj/
 ![](https://komarev.com/ghpvc/?username=aaronamendez&color=orange)
 
 
