@@ -37,7 +37,7 @@
 
 
 ## General Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Berenika14&theme=red-black"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Berenika14&theme=blue-green"/>
 
 
 
