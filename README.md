@@ -6,7 +6,7 @@
 - 👩‍💻 I’m looking to collaborate and build smart solutions for businesses
 -  📧 Email: ahmetajberenika@gmail.com
 🔗 Let`s connect on [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/) 
-![](https://komarev.com/ghpvc/?username=aaronamendez&color=orange)
+![](https://komarev.com/ghpvc/?username=Berenika14&color=orange)
 
 
 ### My Frontend Toolbox: 
