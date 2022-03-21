@@ -2,8 +2,7 @@
 
 - 👋 Hi I’m Berenika , a Full Stack Web Developer . 
 - Web Development calls to my passions : it integrates creativity and problem solving and I am allowed to break it to improve the code (in a different Git Branch, of course).
-- 👩‍💻 I’m looking to collaborate and build smart solutions for businesses
-- 📧 Email me at ahmetajberenika@gmail.com  
+- 👩‍💻 I’m looking to collaborate and build smart solutions for businesses  
 - 🔗 Let`s connect on [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/) 
 
 ![](https://komarev.com/ghpvc/?username=Berenika14&color=orange)
