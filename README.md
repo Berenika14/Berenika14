@@ -1,6 +1,6 @@
 <!-- **Berenika14/Berenika14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cultofmac.com%2F478051%2Fpick-your-price-for-this-premium-bundle-of-coding-lessons%2F&psig=AOvVaw3zU4ZsB3MRSWjSu5SCaC5k&ust=1648686221301000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjl7vjI7PYCFQAAAAAdAAAAABAD" width="100"/></p>
+<p align="center"><img src="https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg?ezimgfmt=ng%3Awebp%2Fngcb24" width="100"/></p>
 
  Berenika Ahmetaj Here!
  -----------------------------------------------------------------------------------------------------
