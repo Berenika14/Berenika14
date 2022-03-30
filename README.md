@@ -16,7 +16,7 @@
 
 🧩 Begginers mindset and curiosity 
 
-🙌 Shared understaning and consensus 
+🙌 Shared understanding and consensus 
 
 
 -----------------------------------------------------------------
