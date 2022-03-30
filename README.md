@@ -14,7 +14,7 @@
 
 💜 Safety and trust
 
-🧩 Begginers mindset and curiosity 
+🧩 Beginners mindset and curiosity 
 
 🙌 Shared understanding and consensus 
 
