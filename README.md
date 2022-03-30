@@ -1,10 +1,10 @@
 <!-- **Berenika14/Berenika14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
- Berenika Ahmetaj here!
+<p align="center"><img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150"/></p>
+ Berenika Ahmetaj Here!
  -------------------------------------------------------------------------------------------------------------------------------------------------------
- I am Full Stack Developer 
-
-<p align="center"><img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/></p>
-- Web Development calls to my passions : it integrates creativity and problem solving and I am allowed to break it to improve the code (in a different Git Branch, of course).I love applying responsive design methods and watching my page shrink into mobile screens and still looks amazing. Such a random satisfying feeling. I just can't get enough. I am eager to learn programming skills that will help team success  through creativity, problem solving and hard work.
+I am Full Stack Developer graduated from Bloomtech <img src="https://www.bloomtech.com/?utm_source=google&utm_medium=paid&utm_campaign=&utm_term=128288863894&utm_content=bloomtech&utm_type=562071954387&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb3nmZbKHTiCGjKORzeyLHQKHPNXJITeoJnlUqsN9yYuKIqsP8eQpZkaAt4VEALw_wcB"/>
+Web Development calls to my passions : it integrates creativity and problem solving and I am allowed to break it to improve the code (in a different Git Branch, of course).I love applying responsive design methods and watching my page shrink into mobile screens and still looks amazing. Such a random satisfying feeling. I just can't get enough. 
+I am eager to learn programming skills that will help team success  through creativity, problem solving and hard work.
 
 
 - 👩‍💻 I’m looking to collaborate and build smart solutions for businesses  
