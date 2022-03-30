@@ -22,6 +22,7 @@
 
 -----------------------------------------------------------------
 **Ways to connect with me**
+
 📧 ahmetajberenika@gmail.com
 
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
