@@ -1,6 +1,7 @@
 <!-- **Berenika14/Berenika14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center"><img src="https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg?ezimgfmt=ng%3Awebp%2Fngcb24" width="500" height="150"/></p>
+![](https://komarev.com/ghpvc/?username=Berenika14&color=orange)
 
  Berenika Ahmetaj Here!
  -----------------------------------------------------------------------------------------------------
@@ -32,11 +33,7 @@
  
 
 --------------------------------------------------------------
-
-
-
-![](https://komarev.com/ghpvc/?username=Berenika14&color=orange)
-
+**Technical Skills**
 
 ### My Frontend Toolbox: 
 <p>
