@@ -18,18 +18,18 @@
 
 🙌 Shared understaning and consensus 
 
+
 -----------------------------------------------------------------
 🌱 I’m looking to collaborate and build smart solutions for businesses  
 
 **Ways to connect with me**
-
 📧 ahmetajberenika@gmail.com
-
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
-
 🖇 [Twitter](https://twitter.com/berenikaahmetaj)
 
  
+
+--------------------------------------------------------------
 
 
 
