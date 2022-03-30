@@ -13,6 +13,7 @@ I am eager to learn programming skills that will help team success  through crea
 **My values:**
 ------------------------------------------------------------------------
 🌻 Expressions as authentic self
+
 💜 Safety and trust
 🧩 Begginers mindset and curiosity 
 🙌 Shared understaning and consensus 
