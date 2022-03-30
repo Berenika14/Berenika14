@@ -6,6 +6,7 @@
  -----------------------------------------------------------------------------------------------------
 ☞ I am a Full Stack Developer. Web Development calls to my passions : it integrates creativity and problem solving and I am allowed to break it to improve the code (in a different Git Branch, of course).I love applying responsive design methods and watching my page shrink into mobile screens and still looks amazing. Such a random satisfying feeling. I just can't get enough. I am eager to learn programming skills that will help team success  through creativity, problem solving and hard work.
  
+🌱 I’m looking to collaborate and build smart solutions for businesses  
 
 
 **My values:**
@@ -20,11 +21,11 @@
 
 
 -----------------------------------------------------------------
-🌱 I’m looking to collaborate and build smart solutions for businesses  
-
 **Ways to connect with me**
 📧 ahmetajberenika@gmail.com
+
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
+
 🖇 [Twitter](https://twitter.com/berenikaahmetaj)
 
  
