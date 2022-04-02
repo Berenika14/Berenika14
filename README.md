@@ -3,7 +3,7 @@
 <p align="center"><img src="https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg?ezimgfmt=ng%3Awebp%2Fngcb24" width="500" height="150"/></p>
 
 
- Berenika Ahmetaj here ! <3
+ Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
 ☞ I am a Full Stack Developer. Web Development calls to my passions : it integrates creativity and problem solving and I am allowed to break it to improve the code (in a different Git Branch, of course). I love applying responsive design methods and watching my page shrink into mobile screens and still looks amazing. Such a random satisfying feeling. I just can't get enough. I am eager to learn programming skills that will help team success  through creativity, problem solving and hard work.
 
