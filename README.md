@@ -23,7 +23,7 @@ I love applying responsive design methods and watching my page shrink into mobil
 -----------------------------------------------------------------
 **Ways to connect with me**
 
-📧 ahmetajberenika@gmail.com
+📧 ahmetajberenika@gmail
 
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
 
