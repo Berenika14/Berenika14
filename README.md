@@ -13,7 +13,7 @@ I love applying responsive design methods and watching my page shrink into mobil
 ------------------------------------------------------------------------
 🌻 Expressions as authentic self
 
-💜 Safety and trust
+💜 Safety and st
 
 🧩 Beginners mindset and curiosity 
 
@@ -23,7 +23,7 @@ I love applying responsive design methods and watching my page shrink into mobil
 -----------------------------------------------------------------
 **Ways to connect with me**
 
-📧 ahmetajberenika@gmail
+📧 ahmetajberenika@gmail.com
 
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
 
