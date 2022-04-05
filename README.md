@@ -13,7 +13,7 @@ I love applying responsive design methods and watching my page shrink into mobil
 ------------------------------------------------------------------------
 🌻 Expressions as authentic self
 
-💜 Safety and st
+💜 Safety and trust
 
 🧩 Beginners mindset and curiosity 
 
