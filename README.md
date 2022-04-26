@@ -5,8 +5,8 @@
 
  Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
-☞ I am a Full Stack Developer. Web Development calls to my passions : it integrates creativity and problem solving and I am allowed to break it to improve the code (in a different Git Branch, of course).
-I am eager to learn programming skills that will help team succeed through creativity, problem solving and hard work.
+☞ Web Development calls to my passions: it integrates creativity and problem solving and I am allowed to break the code to improve it(in a different Git Branch, of course). 
+I am eager to learn programming skills that will help the team succeed through creativity, problem-solving and hard work.
 
 
 **My values:**
