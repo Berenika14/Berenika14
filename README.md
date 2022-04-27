@@ -6,7 +6,6 @@
  Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
 ☞ Web Development calls to my passions: it integrates creativity and problem solving and I am allowed to break the code to improve it(in a different Git Branch, of course). 
-
 I am eager to learn programming skills that will help the team succeed through creativity, problem-solving and hard work.
 
 
