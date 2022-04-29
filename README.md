@@ -3,7 +3,7 @@
 <p align="center"><img src="https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg?ezimgfmt=ng%3Awebp%2Fngcb24" width="500" height="150"/></p>
 
 
- Berenika Ahmetaj here 
+ Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
 ☞ Web Development calls to my passions: it integrates creativity and problem solving and I am allowed to break the code to improve it(in a different Git Branch, of course). 
 I am eager to learn programming skills that will help the team succeed through creativity, problem-solving and hard work.
