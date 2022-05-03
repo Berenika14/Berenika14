@@ -23,7 +23,7 @@ I am eager to learn programming skills that will help the team succeed through c
 -----------------------------------------------------------------
 **Ways to connect with me**
 
-📧 ahmetajberenika@gmail.com
+📧 nikaa@hey.com
 
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
 
