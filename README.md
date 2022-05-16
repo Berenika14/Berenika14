@@ -10,15 +10,7 @@
 I am eager to learn programming skills that will help the team succeed through creativity, problem-solving and hard work.
 
 
-**My values:**
-------------------------------------------------------------------------
-🌻 Expressions as authentic self
 
-💜 Safety and trust
-
-🧩 Beginners mindset and curiosity 
-
-🙌 Shared understanding and consensus 
 
 
 -----------------------------------------------------------------
