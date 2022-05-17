@@ -55,9 +55,6 @@ I am eager to learn programming skills that will help companies succeed through 
 
 
 
-## General Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Berenika14&theme=blue-green"/>
-
 
 ![](https://komarev.com/ghpvc/?username=Berenika14&color=orange)
 
