@@ -16,7 +16,6 @@ I am eager to learn programming skills that will help companies succeed through 
 -----------------------------------------------------------------
 **Ways to connect with me**
 
-📧 nikaa@hey.com
 
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
 
