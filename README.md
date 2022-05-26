@@ -8,7 +8,7 @@
 
 💻 I just graduated from my Fullstack Web Developer course at BloomTech, and I am currently looking for my next opportunity.
 
-🌱 I’m currently learning TypeSript, Remix , Chakra UI
+🌱 I’m currently learning TypeSript, Remix , Tailwind
 
 ✨ Web Development is my passion and I enjoy building everything from small business sites to rich interactive webs.
 
