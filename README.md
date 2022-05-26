@@ -6,7 +6,7 @@
  Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
 
-💻 I just graduated from my full stack web developer course at Bloom Institute of Technology formerly Lambda School , and I am currently looking for my next opportunity.
+💻 I just graduated from my full stack web developer course at BloomTech formerly Lambda School, and I am currently looking for my next opportunity.
 
 🌱 I’m currently learning TypeSript, Remix , Chakra UI
 
