@@ -5,7 +5,8 @@
 
  Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
-I am a Web Developer from New York 🇺🇸. I enjoy building everything from small business sites to rich interactive webs.
+Web Development is my passion and I enjoy building everything from small business sites to rich interactive webs.
+
 
 
 
