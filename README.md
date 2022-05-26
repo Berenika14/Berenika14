@@ -5,11 +5,12 @@
 
  Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
-✨ Web Development is my passion and I enjoy building everything from small business sites to rich interactive webs.
 
 💻 I just graduated from my full stack web developer course at Bloom Institute of Technology formerly Lambda School , and I am currently looking for my next opportunity.
 
 🌱 I’m currently learning TypeSript, Remix , Chakra UI
+
+✨ Web Development is my passion and I enjoy building everything from small business sites to rich interactive webs.
 
 
 
