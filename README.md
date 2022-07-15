@@ -24,8 +24,6 @@
 
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
 
-🖇 [Twitter](https://twitter.com/berenikaahmetaj)
-
 🦋 [Portfolio](https://www.verynika.com/)
 
  
