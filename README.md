@@ -20,7 +20,7 @@
 -----------------------------------------------------------------
 **Ways to connect with me**
 
-📧 nikaa@hey.com
+
 
 🔗  [LinkedIn](https://www.linkedin.com/in/berenika-ahmetaj/)
 
