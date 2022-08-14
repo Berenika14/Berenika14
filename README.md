@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning TypeSript, Remix , Tailwind
 
-✨ I enjoy building everything from small business sites to rich interactive webs.
+✨ I enjoy building everything from small business sites to rich interactive webs
 
 
 
