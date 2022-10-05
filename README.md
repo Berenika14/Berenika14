@@ -6,11 +6,11 @@
  Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
 
-💻 I recently graduated from the Fullstack Web Developer course at BloomTech, and I am currently looking for my next opportunity
+💻 Experience designing and building full-stack applications in Agile environments.
 
-🌱 I’m currently learning TypeSript, Remix , Tailwind
+🌱 Currently learning TypeSript, Remix , Tailwind
 
-✨ I enjoy building everything from small business sites to rich interactive webs.
+✨ Enjoys building everything from small business sites to rich interactive webs.
 
 
 
