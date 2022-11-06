@@ -6,11 +6,11 @@
  Berenika Ahmetaj here !
  -----------------------------------------------------------------------------------------------------
 
-💻 Experience designing and building full-stack applications in Agile environments.
+💻 Experience designing and building full-stack applications in Agile environments
 
 🌱 Currently learning TypeSript, Remix , Tailwind
 
-✨ Enjoys building everything from small business sites to rich interactive webs.
+✨ Enjoys building everything from small business sites to rich interactive webs
 
 
 
